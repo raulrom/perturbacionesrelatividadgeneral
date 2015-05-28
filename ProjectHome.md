@@ -1,0 +1,3 @@
+Se presenta el código en Maple para obtener las ecuaciones perturbadas de Einstein. El algoritmo está basado en los trabajos de Kouji Nakamura ( ver por ejemplo: arXiv:gr-qc0605108v3 y referencias dadas ahí o mi arículo de revisión: Revisión de la teoría de perturbaciones en Relatividad General, mandado a la Revista Mexicana de Física).
+
+Se planea pasar este código a Cadabra y a Maxima. Esten pendientes :)
